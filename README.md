@@ -1,6 +1,6 @@
 # Olá, eu sou o Danilo! 👋
 
-Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonado por tecnologia e segurança da informação.
+Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS).** 
 
 ---
 
